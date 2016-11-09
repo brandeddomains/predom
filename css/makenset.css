@@ -278,11 +278,12 @@ hr.style-2 {
 }
 .sbox-text {
   padding: 25px 15px 5px 15px;
-  font-weight: 400;
-  font-size: 1.4em;
+  font-weight: 700;
+  font-size: 1.5em;
   line-height: 1em;
   color: #555;
-  text-transform: none; 
+  text-transform: none;
+  font-family: 'Maven Pro', sans-serif;
 }
 .sbox-description {
   padding: 1px 15px 5px 15px;
